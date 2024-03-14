@@ -1,65 +1,69 @@
 .app-container {
-  background-color: blue;
+  background-color: blue; 
   display: flex;
   justify-content: center;
   align-items: center;
+  height: 100vh; 
 }
 
 .box {
   width: 95%;
-  height: 95%;
-  background-color: #f2f2fc;
-  border-radius: 25px;
-  margin: 20px;
+  height: 100%;
+  background-color: #f2f2fc; 
+  border-radius: 25px; 
+  margin: 20px; 
   padding: 0px 50px 25px 0px;
   display: flex;
   flex-direction: column;
+  
 }
 
 .content-box {
+ 
   width: 55%;
   display: flex;
   padding: 25px 50px 25px 15px;
   align-items: center;
-  margin-top: 10px;
-  margin-left: 15px;
-  background-color: white;
+  margin-top: 10px ;
+  margin-left:15px;
+  background-color: white; 
 }
 .content {
   width: 55%;
   display: flex;
   padding: 10px 50px 25px 15px;
   align-items: center;
-  margin-left: 15px;
+  margin-left:15px;
   background-color: white;
+   
 }
 
 .contact-item {
-  margin-right: 5px;
+  margin-right: 5px; 
 }
 
 .contact-items {
-  margin-right: 55px;
+  margin-right: 55px; 
 }
 
 .dropdown {
-  width: 350px;
+  width: 350px; 
   margin-right: 10px;
   padding: 5px 5px;
 }
 
 .small-dropdown {
-  width: 250px;
+  width: 250px; 
   margin-right: 10px;
   padding: 5px 5px;
   background-color: #ffffff;
   min-width: 160px;
-  box-shadow: 10px 8px 16px 0px rgba(0, 0, 0, 0.2);
-  z-index: 1;
+  box-shadow: 10px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1; 
 }
 
 .icon1 {
-  margin-left: 10px;
+  margin-left: 10px; 
 }
 
 .table-heading {
@@ -68,13 +72,13 @@
   justify-content: space-around;
   padding: 10px;
   font-weight: bold;
-  margin-left: 15px;
-  margin-top: 50px;
+  margin-left:15px;
+  padding-top: 80px;
 }
 
 .select-product-message {
   width: 55%;
-  margin-left: 15px;
+  margin-left:15px;
   background-color: #ffffff;
   text-align: center;
   padding: 20px;

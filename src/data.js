@@ -9,7 +9,7 @@ export const cardData = [
             'https://images.unsplash.com/photo-1508739773434-c26b3d09e071?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
         ],
         title: 'Cozy Moments',
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, autem!'
+        price: '$20.99'
     },
     {
         id: 2,
@@ -19,7 +19,7 @@ export const cardData = [
             'https://images.unsplash.com/photo-1508739773434-c26b3d09e071?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
         ],
         title: 'Cozy Moments',
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, autem!'
+        price: '$19.49'
     },
     {
         id: 3,
@@ -29,7 +29,7 @@ export const cardData = [
             'https://images.unsplash.com/photo-1508739773434-c26b3d09e071?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
         ],
         title: 'Cozy Moments',
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, autem!'
+        price: '$15.99'
     },
     {
         id: 4,
@@ -39,7 +39,7 @@ export const cardData = [
             'https://images.unsplash.com/photo-1508739773434-c26b3d09e071?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
         ],
         title: 'Cozy Moments',
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, autem!'
+        price: '$24.99'
     },
     {
         id: 5,
@@ -49,7 +49,7 @@ export const cardData = [
             'https://images.unsplash.com/photo-1508739773434-c26b3d09e071?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
         ],
         title: 'Cozy Moments',
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, autem!'
+        price: '$24.99'
     },
     {
         id: 6,
@@ -59,7 +59,7 @@ export const cardData = [
             'https://images.unsplash.com/photo-1508739773434-c26b3d09e071?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
         ],
         title: 'Cozy Moments',
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, autem!'
+        price: '$24.99'
     },
     {
         id: 7,
@@ -69,7 +69,7 @@ export const cardData = [
             'https://images.unsplash.com/photo-1508739773434-c26b3d09e071?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
         ],
         title: 'Cozy Moments',
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, autem!'
+        price: '$24.99'
     },
     {
         id: 8,
@@ -79,7 +79,7 @@ export const cardData = [
             'https://images.unsplash.com/photo-1508739773434-c26b3d09e071?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
         ],
         title: 'Cozy Moments',
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, autem!'
+        price: '$24.99'
     },
     {
         id: 9,
@@ -89,7 +89,7 @@ export const cardData = [
             'https://images.unsplash.com/photo-1508739773434-c26b3d09e071?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
         ],
         title: 'Cozy Moments',
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, autem!'
+        price: '$24.99'
     },
     {
         id: 10,
@@ -99,7 +99,7 @@ export const cardData = [
             'https://images.unsplash.com/photo-1508739773434-c26b3d09e071?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
         ],
         title: 'Cozy Moments',
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, autem!'
+        price: '$24.99'
     },
     {
         id: 11,
@@ -109,7 +109,7 @@ export const cardData = [
             'https://images.unsplash.com/photo-1508739773434-c26b3d09e071?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
         ],
         title: 'Cozy Moments',
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, autem!'
+        price: '$24.99'
     },
     {
         id: 12,
@@ -119,7 +119,7 @@ export const cardData = [
             'https://images.unsplash.com/photo-1508739773434-c26b3d09e071?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
         ],
         title: 'Cozy Moments',
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, autem!'
+        price: '$24.99'
     },
     {
         id: 13,
@@ -129,7 +129,7 @@ export const cardData = [
             'https://images.unsplash.com/photo-1508739773434-c26b3d09e071?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
         ],
         title: 'Cozy Moments',
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, autem!'
+        price: '$24.99'
     },
     {
         id: 14,
@@ -139,7 +139,7 @@ export const cardData = [
             'https://images.unsplash.com/photo-1508739773434-c26b3d09e071?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
         ],
         title: 'Cozy Moments',
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, autem!'
+        price: '$24.99'
     },
     {
         id: 15,
@@ -149,7 +149,7 @@ export const cardData = [
             'https://images.unsplash.com/photo-1508739773434-c26b3d09e071?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
         ],
         title: 'Cozy Moments',
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, autem!'
+        price: '$24.99'
     }
 
 ];
